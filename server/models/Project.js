@@ -27,12 +27,10 @@ const projectSchema = new Schema({
     required: "Either youtube link or deployed link is needed.",
     trim: true,
   },
-  technologies: [
-    {
-      type: String,
-      trim: true,
-    },
-  ],
+  technologies: {
+    type: String,
+    trim: true,
+  },
 });
 
 const Project = model("Project", projectSchema);

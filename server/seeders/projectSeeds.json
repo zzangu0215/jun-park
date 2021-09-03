@@ -1,0 +1,42 @@
+[
+  {
+    "projectName": "Jobbee",
+    "thumbnail": "jobbee-thumbnail.PNG",
+    "description": "JOBBEE allows new users to to sign up as Developers and Employers. Employers can post job listings and like their favorite developers. Developers can look at job listings and see which employer has liked them.",
+    "github_link": "https://github.com/zzangu0215/jobbee",
+    "ext_link": "https://jobbee-fantom.herokuapp.com/",
+    "technologies": "React, Express, MongoDB, Node.js, Mongoose, TailwindCSS"
+  },
+  {
+    "projectName": "MyKNL ZAP",
+    "thumbnail": "myknl-thumbnail.PNG",
+    "description": "Do you want to explore about your favorite MARVEL heroes? You should checkout our FANTOM app to get more familiar with your favorite heroes!",
+    "github_link": "https://github.com/zzangu0215/myknl",
+    "ext_link": "https://myknl-zap.herokuapp.com/",
+    "technologies": "Handlebars, HTML, CSS, JavaScript, Node.js, Express, Sequelize, MySQL"
+  },
+  {
+    "projectName": "FANTOM",
+    "thumbnail": "fantom-thumbnail.PNG",
+    "description": "Do you want to explore about your favorite MARVEL heroes? You should checkout our FANTOM app to get more familiar with your favorite heroes!",
+    "github_link": "https://github.com/zzangu0215/fantom",
+    "ext_link": "https://zzangu0215.github.io/fantom/",
+    "technologies": "HTML, CSS, JavaScript, BootStrap, jQuery"
+  },
+  {
+    "projectName": "Jobbee",
+    "thumbnail": "jobbee-thumbnail.PNG",
+    "description": "JOBBEE allows new users to to sign up as Developers and Employers. Employers can post job listings and like their favorite developers. Developers can look at job listings and see which employer has liked them.",
+    "github_link": "https://github.com/zzangu0215/jobbee",
+    "ext_link": "https://jobbee-fantom.herokuapp.com/",
+    "technologies": "React, Express, MongoDB, Node.js, TailwindCSS"
+  },
+  {
+    "projectName": "Employee Tracker",
+    "thumbnail": "employeeTracker-thumbnail.PNG",
+    "description": "As a business owner, don't you want to manage your employees, their roles, and their deparmtnets? It's time to use Employee Tracker to fulfill your needs!",
+    "github_link": "https://github.com/zzangu0215/employee-tracker",
+    "ext_link": "https://www.youtube.com/watch?v=DtImnxCd0y0",
+    "technologies": "JavaScript, Node.js, Inquirer, MySQL"
+  }
+]
