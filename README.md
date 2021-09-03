@@ -1,2 +1,3 @@
-# jun-park
-Final Portfolio
+# Portfolio
+
+Hi guys, this is the final portfolio for me :)
