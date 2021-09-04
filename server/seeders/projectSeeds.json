@@ -60,7 +60,7 @@
     "thumbnail": "scheduler-thumbnail.PNG",
     "description": "If you want to organize your daily schedule? Come to my Work Day Scheduler to put your schedules!",
     "github_link": "https://github.com/zzangu0215/Work_Day_Scheduler",
-    "deployed_link": "https://zzangu0215.github.io/Work_Day_Scheduler/",
+    "ext_link": "https://zzangu0215.github.io/Work_Day_Scheduler/",
     "technologies": "HTML, CSS, JavaScript, jQuery"
   },
   {
@@ -68,7 +68,7 @@
     "thumbnail": "code-quiz-thumbnail.PNG",
     "description": "If you want to test out your knowledge of JavaScript? Come take a well-made quiz here! Jun's Code Quiz",
     "github_link": "https://github.com/zzangu0215/Code_Quiz_Challenge",
-    "deployed_link": "https://zzangu0215.github.io/Code_Quiz_Challenge/",
+    "ext_link": "https://zzangu0215.github.io/Code_Quiz_Challenge/",
     "technologies": "HTML, CSS, JavaScript, jQuery"
   }
 ]
