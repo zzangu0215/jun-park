@@ -24,19 +24,51 @@
     "technologies": "HTML, CSS, JavaScript, BootStrap, jQuery"
   },
   {
-    "projectName": "Jobbee",
-    "thumbnail": "jobbee-thumbnail.PNG",
-    "description": "JOBBEE allows new users to to sign up as Developers and Employers. Employers can post job listings and like their favorite developers. Developers can look at job listings and see which employer has liked them.",
-    "github_link": "https://github.com/zzangu0215/jobbee",
-    "ext_link": "https://jobbee-fantom.herokuapp.com/",
-    "technologies": "React, Express, MongoDB, Node.js, TailwindCSS"
-  },
-  {
     "projectName": "Employee Tracker",
     "thumbnail": "employeeTracker-thumbnail.PNG",
     "description": "As a business owner, don't you want to manage your employees, their roles, and their deparmtnets? It's time to use Employee Tracker to fulfill your needs!",
     "github_link": "https://github.com/zzangu0215/employee-tracker",
     "ext_link": "https://www.youtube.com/watch?v=DtImnxCd0y0",
     "technologies": "JavaScript, Node.js, Inquirer, MySQL"
+  },
+  {
+    "projectName": "Team Profile Generator",
+    "thumbnail": "team-profile-generator-thumbnail.PNG",
+    "description": "As a project manager, don't you want to have a nice team profile page? Let my Team Profile Generator do that for you!",
+    "github_link": "https://github.com/zzangu0215/Team-Profile-Generator",
+    "ext_link": "https://www.youtube.com/watch?v=CsBoPhA-1xM",
+    "technologies": "JavaScript, Node.js, Inquirer, Jest"
+  },
+  {
+    "projectName": "Professional README Generator",
+    "thumbnail": "prof-readme-generator-thumbnail.PNG",
+    "description": "Do you want to save your time on making README.md for your project? You should checkout my Professional README Generator to make your life easier!",
+    "github_link": "https://github.com/zzangu0215/Professional_README_Generator",
+    "ext_link": "https://www.youtube.com/watch?v=ymh6NgjPLL0",
+    "technologies": "JavaScript, Node.js, Inquirer"
+  },
+  {
+    "projectName": "Weather Dashboard",
+    "thumbnail": "weather-dashboard-thumbnail.PNG",
+    "description": "Do you want to search weather for your favorite cities? Come to my Weather Dashboard to be a forecaster!",
+    "github_link": "https://github.com/zzangu0215/Weather_Dashboard",
+    "ext_link": "https://zzangu0215.github.io/Weather_Dashboard/",
+    "technologies": "HTML, CSS, JavaScript, jQuery"
+  },
+  {
+    "projectName": "Work Day Scheduler",
+    "thumbnail": "scheduler-thumbnail.PNG",
+    "description": "If you want to organize your daily schedule? Come to my Work Day Scheduler to put your schedules!",
+    "github_link": "https://github.com/zzangu0215/Work_Day_Scheduler",
+    "deployed_link": "https://zzangu0215.github.io/Work_Day_Scheduler/",
+    "technologies": "HTML, CSS, JavaScript, jQuery"
+  },
+  {
+    "projectName": "Code Quiz Challenge",
+    "thumbnail": "code-quiz-thumbnail.PNG",
+    "description": "If you want to test out your knowledge of JavaScript? Come take a well-made quiz here! Jun's Code Quiz",
+    "github_link": "https://github.com/zzangu0215/Code_Quiz_Challenge",
+    "deployed_link": "https://zzangu0215.github.io/Code_Quiz_Challenge/",
+    "technologies": "HTML, CSS, JavaScript, jQuery"
   }
 ]
