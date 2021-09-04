@@ -1,7 +1,8 @@
 [
   {
     "projectName": "Jobbee",
-    "thumbnail": "jobbee-thumbnail.PNG",
+    "isTeamProject": true,
+    "filename": "jobbee.PNG",
     "description": "JOBBEE allows new users to to sign up as Developers and Employers. Employers can post job listings and like their favorite developers. Developers can look at job listings and see which employer has liked them.",
     "github_link": "https://github.com/zzangu0215/jobbee",
     "ext_link": "https://jobbee-fantom.herokuapp.com/",
@@ -9,7 +10,8 @@
   },
   {
     "projectName": "MyKNL ZAP",
-    "thumbnail": "myknl-thumbnail.PNG",
+    "isTeamProject": true,
+    "filename": "myknl.PNG",
     "description": "Do you want to explore about your favorite MARVEL heroes? You should checkout our FANTOM app to get more familiar with your favorite heroes!",
     "github_link": "https://github.com/zzangu0215/myknl",
     "ext_link": "https://myknl-zap.herokuapp.com/",
@@ -17,7 +19,8 @@
   },
   {
     "projectName": "FANTOM",
-    "thumbnail": "fantom-thumbnail.PNG",
+    "isTeamProject": true,
+    "filename": "fantom.PNG",
     "description": "Do you want to explore about your favorite MARVEL heroes? You should checkout our FANTOM app to get more familiar with your favorite heroes!",
     "github_link": "https://github.com/zzangu0215/fantom",
     "ext_link": "https://zzangu0215.github.io/fantom/",
@@ -25,7 +28,8 @@
   },
   {
     "projectName": "Employee Tracker",
-    "thumbnail": "employeeTracker-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "employee-tracker.PNG",
     "description": "As a business owner, don't you want to manage your employees, their roles, and their deparmtnets? It's time to use Employee Tracker to fulfill your needs!",
     "github_link": "https://github.com/zzangu0215/employee-tracker",
     "ext_link": "https://www.youtube.com/watch?v=DtImnxCd0y0",
@@ -33,7 +37,8 @@
   },
   {
     "projectName": "Team Profile Generator",
-    "thumbnail": "team-profile-generator-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "team-profile-generator.PNG",
     "description": "As a project manager, don't you want to have a nice team profile page? Let my Team Profile Generator do that for you!",
     "github_link": "https://github.com/zzangu0215/Team-Profile-Generator",
     "ext_link": "https://www.youtube.com/watch?v=CsBoPhA-1xM",
@@ -41,7 +46,8 @@
   },
   {
     "projectName": "Professional README Generator",
-    "thumbnail": "prof-readme-generator-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "prof-readme-generator.PNG",
     "description": "Do you want to save your time on making README.md for your project? You should checkout my Professional README Generator to make your life easier!",
     "github_link": "https://github.com/zzangu0215/Professional_README_Generator",
     "ext_link": "https://www.youtube.com/watch?v=ymh6NgjPLL0",
@@ -49,7 +55,8 @@
   },
   {
     "projectName": "Weather Dashboard",
-    "thumbnail": "weather-dashboard-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "weather-dashboard.PNG",
     "description": "Do you want to search weather for your favorite cities? Come to my Weather Dashboard to be a forecaster!",
     "github_link": "https://github.com/zzangu0215/Weather_Dashboard",
     "ext_link": "https://zzangu0215.github.io/Weather_Dashboard/",
@@ -57,7 +64,8 @@
   },
   {
     "projectName": "Work Day Scheduler",
-    "thumbnail": "scheduler-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "workday-scheduler.PNG",
     "description": "If you want to organize your daily schedule? Come to my Work Day Scheduler to put your schedules!",
     "github_link": "https://github.com/zzangu0215/Work_Day_Scheduler",
     "ext_link": "https://zzangu0215.github.io/Work_Day_Scheduler/",
@@ -65,7 +73,8 @@
   },
   {
     "projectName": "Code Quiz Challenge",
-    "thumbnail": "code-quiz-thumbnail.PNG",
+    "isTeamProject": false,
+    "filename": "codequiz-challenge.PNG",
     "description": "If you want to test out your knowledge of JavaScript? Come take a well-made quiz here! Jun's Code Quiz",
     "github_link": "https://github.com/zzangu0215/Code_Quiz_Challenge",
     "ext_link": "https://zzangu0215.github.io/Code_Quiz_Challenge/",

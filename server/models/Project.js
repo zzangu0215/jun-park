@@ -6,9 +6,13 @@ const projectSchema = new Schema({
     required: "Project should have a unique name.",
     trim: true,
   },
-  thumbnail: {
+  isTeamProject: {
+    type: Boolean,
+    required: "Either Team or Personal.",
+  },
+  filename: {
     type: String,
-    required: "Must have a thumbnail!",
+    required: "Must have a thumbnail.",
     trim: true,
   },
   description: {
