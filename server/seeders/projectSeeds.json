@@ -1,5 +1,14 @@
 [
   {
+    "projectName": "Kojobs UCSD",
+    "isTeamProject": true,
+    "filename": "kojobs.PNG",
+    "description": "Website for the Korean Communities in San Diego.",
+    "github_link": "https://github.com/zzangu0215/ucsd-kojobs",
+    "ext_link": "https://kojobs-ucsd.herokuapp.com/",
+    "technologies": "React, Express, MongoDB, Node.js, Mongoose, TailwindCSS"
+  },
+  {
     "projectName": "Jobbee",
     "isTeamProject": true,
     "filename": "jobbee.PNG",
